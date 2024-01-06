@@ -10,6 +10,9 @@ This Android project showcases the implementation of a Navigation Drawer using J
 
 - **Navigation Component:** Integrates the Navigation Component to manage navigation within the app, ensuring a seamless flow between different screens.
 
+- **NavHost Implementation:** Utilizes the `NavHost` to define the navigation graph and handle navigation actions, providing a structured and efficient way to manage the app's navigation.
+
+
 ## Getting Started
 
 To explore the project, simply clone the repository and open it in Android Studio. Make sure to have the required dependencies, including Jetpack Compose and Navigation Component, added to your project.
