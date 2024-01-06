@@ -1,16 +1,26 @@
-# NavigationDrawer
-Navigation Drawer with Jetpack Compose and Navigation Component
+# Navigation Drawer with Jetpack Compose and Material 3
 
+This Android project showcases the implementation of a Navigation Drawer using Jetpack Compose, Material 3, and the Navigation Component. The Navigation Drawer provides an intuitive way for users to access various sections of the app, enhancing the overall navigation experience.
 
-## Description
+## Features
 
-This example demonstrates how to create a Navigation Drawer in your Android app using Jetpack Compose, Material 3, and Navigation Component. The Navigation Drawer allows users to access different sections or features of your app easily.
+- **Jetpack Compose:** Utilizes the modern Android UI toolkit for building native interfaces.
 
+- **Material 3 Design:** Adheres to the Material 3 design principles, offering a visually appealing and consistent user interface.
+
+- **Navigation Component:** Integrates the Navigation Component to manage navigation within the app, ensuring a seamless flow between different screens.
+
+## Getting Started
+
+To explore the project, simply clone the repository and open it in Android Studio. Make sure to have the required dependencies, including Jetpack Compose and Navigation Component, added to your project.
 
 ## Screenshots
 
-### Home Screen
-<img src="app/Screenshot_20240106_221049.png" alt="Home Screen" width="300"/>
+<p align="center">
+  <img src="app/Screenshot_20240106_221049.png" alt="Home Screen" width="300"/>
+  <img src="app/Screenshot_20240106_221109.png" alt="Drawer Menu" width="300"/>
+</p>
 
-### Drawer Menu
-<img src="app/Screenshot_20240106_221109.png" alt="Drawer Menu" width="300"/>
+## Customize and Extend
+
+Feel free to customize the code according to your app's requirements. Add more destinations to the Navigation Component, modify the Drawer menu items, and enhance the styling with Material 3 components.
